@@ -1,7 +1,11 @@
-### Hi there 👋
+Header
 
-<!--
-**Nargiz-Toleutai/Nargiz-Toleutai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About me
+
+Languages and Tools
+
+Social-media 
+
 
 Here are some ideas to get you started:
 
