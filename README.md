@@ -1,6 +1,7 @@
-## 👋 Hey there! I'm a self-taught and highly motivated frontend developer with a passion for creating seamless user experiences. My problem-solving skills and expertise in JavaScript, TypeScript, and React enable me to tackle complex challenges head-on. I'm always eager to expand my technical skills and stay up-to-date with the latest technologies.
+#### 👋 Hey there! I'm a self-taught and highly motivated frontend developer with a passion for creating seamless user experiences. 
+#### My problem-solving skills and expertise in JavaScript, TypeScript, and React enable me to tackle complex challenges head-on. I'm always eager to expand my technical skills and stay up-to-date with the latest technologies.
 
-![Header](https://github.com/Nargiz-Toleutai/Nargiz-Toleutai/blob/main/assets/profilePic.gif)
+![Header](https://github.com/Nargiz-Toleutai/Nargiz-Toleutai/blob/main/assets/profilePic.gif=250px)
 
 
 ### 💡 **Languages and Tools:**
