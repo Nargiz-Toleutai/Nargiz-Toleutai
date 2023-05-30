@@ -1,7 +1,7 @@
 #### 👋 Hey there! I'm a self-taught and highly motivated frontend developer with a passion for creating seamless user experiences. 
 #### My problem-solving skills and expertise in JavaScript, TypeScript, and React enable me to tackle complex challenges head-on. I'm always eager to expand my technical skills and stay up-to-date with the latest technologies.
 
-<img align="right" alt="GIF" src="./assets/mainProfilePic.gif" width="360px"/>
+<!-- <img align="right" alt="GIF" src="https://github.com/Nargiz-Toleutai/Nargiz-Toleutai/blob/main/assets/profilePic.gif" width="360px"/> -->
 
 ### 💡 **Languages and Tools:**
 - Programming Languages: ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript) ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=flat-square&logo=TypeScript)
