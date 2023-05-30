@@ -1,4 +1,4 @@
-Header
+![Header](https://github.com/Nargiz-Toleutai/Nargiz-Toleutai/blob/main/assets/profilePic.gif)
 
 About me
 
