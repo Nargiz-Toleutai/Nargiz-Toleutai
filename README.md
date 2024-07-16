@@ -1,4 +1,4 @@
-#### 👋 Hey there! I'm a self-taught and highly motivated frontend developer with a passion for creating seamless user experiences. 
+#### 👋 Hey there! I'm a fullstack developer with a passion for creating seamless user experiences. 
 #### My problem-solving skills and expertise in JavaScript, TypeScript, and React enable me to tackle complex challenges head-on. I'm always eager to expand my technical skills and stay up-to-date with the latest technologies.
 
 <img align="right" alt="GIF" src="https://github.com/Nargiz-Toleutai/Nargiz-Toleutai/blob/main/assets/mainProfilePic.gif" width="360px"/>
@@ -12,7 +12,7 @@
 - Design and Prototyping Tools: ![Figma](https://img.shields.io/badge/Figma-000?style=flat-square&logo=figma&logocolor=314134)
 - Languages: ![Russian](https://img.shields.io/badge/Russian-native-27AE60) ![English](https://img.shields.io/badge/English-C1-27AE70) ![Kazakh](https://img.shields.io/badge/Kazakh-B1-27AE80)
   
-💬 Feel free to reach out to me for collaboration, coding challenges, or discussions on the latest frontend development trends!
+💬 Feel free to reach out to me for collaboration, coding challenges, or discussions on the latest programming trends!
 
 ### **Social-media** 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1B74F9?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nargiz-toleutai-538bb3172)
