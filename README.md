@@ -26,4 +26,4 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1B74F9?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nargiz-toleutai-538bb3172)
 
-![GitHub Activity Chart](https://<ваше_имя_пользователя>.github.io/<имя_репозитория>/index.html)
+![GitHub Activity Chart](https://Nargiz-Toleutai.github.io/Nargiz-Toleutai/index.html)
