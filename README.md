@@ -25,5 +25,3 @@
 ### **Social-media**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1B74F9?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nargiz-toleutai-538bb3172)
-
-![GitHub Activity Chart](https://nargiz-toleutai.github.io/Nargiz-Toleutai/index.html)
