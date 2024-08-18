@@ -13,7 +13,7 @@
 - Containerization: ![Docker](https://img.shields.io/badge/Docker-000?style=flat-square&logo=docker&logocolor=314134)
 - Design and Prototyping Tools: ![Figma](https://img.shields.io/badge/Figma-000?style=flat-square&logo=figma&logocolor=314134)
 - Databases and ORM: ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logocolor=003B57) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logocolor=336791) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logocolor=47A248) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logocolor=2D3748)
-- Testing: ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logocolor=17202C)
+- Testing: Testing: ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logocolor=17202C) ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logocolor=C21325) ![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=flat-square&logo=mocha&logocolor=8D6748)
 - Validation: ![Zod](https://img.shields.io/badge/Zod-2E86AB?style=flat-square&logo=zod&logocolor=2E86AB)
 - Authentication: ![JSON Web Tokens](https://img.shields.io/badge/JSON%20Web%20Tokens-000?style=flat-square&logo=json-web-tokens&logocolor=000)
 - Form Handling: ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=flat-square&logo=react-hook-form&logocolor=EC5990)
