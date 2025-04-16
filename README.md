@@ -1,4 +1,4 @@
-#### 👋 Hey there! I'm a Full-Stack Software Developer.
+#### 👋 Hey there! I'm a Backend Developer.
 
 #### In the past, I worked as an Executive Assistant to the CEO of one of the largest banks in Kazakhstan. This job gave me a good understanding of how businesses work and how important decisions are made. However, I decided to switch my career and focus on coding full-time. Now, I use my varied experience to build new and exciting applications, combining my business knowledge with my technical skills to create something truly unique.
 
